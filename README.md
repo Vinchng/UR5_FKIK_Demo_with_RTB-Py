@@ -103,6 +103,6 @@ robot.tool 已根据标定结果设置，保证 FK/IK 与真实 TCP 对齐。
 
 Peter Corke 的 Robotics Toolbox for Python
 
-Rasmus Skovgaard Andersen 关于 UR5 解析 IK 的推导
+Rasmus Skovgaard Andersen 关于 UR5 解析 IK 的推导 https://blog.csdn.net/fengyu19930920/article/details/81144042
 
 IK解析解参考项目：https://gitee.com/borunte-robot/IK_Solver_UR5
