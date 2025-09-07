@@ -20,11 +20,15 @@ ImportError: cannot import name 'disp' from 'numpy'
 from numpy import disp
 
 修改为：
+
+```python
 try:
     from numpy import disp
 except Exception:
     def disp(msg):
         print(msg)
+```
+
 保存后重新运行，即可避免错误。
 
 ## **环境安装**
