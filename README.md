@@ -78,6 +78,7 @@ q 退出菜单
 
 ## **项目结构**
 
+```
 ├── main.py              # 启动入口（几行代码）
 ├── app.py               # 核心逻辑（FK/IK交互、菜单、解析工具）
 ├── kinematics/
@@ -86,6 +87,9 @@ q 退出菜单
 │   └── ik_analytic_ur5.py  # 解析解 IK + 封装
 └── viz/
     └── mpl_view.py      # matplotlib 渲染器
+```
+
+
 
 ## **小技巧**
 
